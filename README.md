@@ -1,3 +1,5 @@
+![Alt text](./src/images/Create-palette.png?raw=true "Optional Title")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
