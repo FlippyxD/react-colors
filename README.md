@@ -1,3 +1,9 @@
+# Demo
+
+Live demo can be found here -> [React Colors Demo](https://drahl-react-colors.herokuapp.com)
+
+# About
+
 Project based on [Material UI Colors](http://materialuicolors.co) and  [Flat UI Colors](https://flatuicolors.com). 
 
 This project lets you:
