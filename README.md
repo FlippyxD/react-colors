@@ -1,11 +1,13 @@
-Project based on [Material UI Colors](http://materialuicolors.co) and  <a href="https://flatuicolors.com/"  [Flat UI Colors](https://flatuicolors.com). This project lets you:
-                 - Design your own favorite color palette 
-                 - On click copy HEX/RGB or RGBA format of the color of your choice
-                 - Dynamically change the darkness/brightness of the colors in your palette
-                 - Saves all the changes in localstorage
-                 - This project has been completely rewritten using React hooks
+Project based on [Material UI Colors](http://materialuicolors.co) and  [Flat UI Colors](https://flatuicolors.com). 
+
+This project lets you:
+* Design your own favorite color palette 
+* On click copy HEX/RGB or RGBA format of the color of your choice
+* Dynamically change the darkness/brightness of the colors in your palette
+* Saves all the changes in localstorage
+* This project has been completely rewritten using React hooks
                  
-This project is based on the final project in  
+This project is based on the final project in [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)
 
 ![Alt text](./src/images/React-colors.png?raw=true "React Colors")
 
@@ -15,5 +17,4 @@ This project is based on the final project in
 
 ![Alt text](./src/images/Create-palette.png?raw=true "Create Palette")
 
-This project was bootstrapped with [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/).
 
